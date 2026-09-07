@@ -21,8 +21,8 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 
 | Course no. & date | Lecturer | Topic | Notes & references |
 | --- | --- | --- | --- |
-| MODULE 01 |  | Foundations |  |
-| Lecture 01<br>Wed · Sep 09 | Yael Kalai | Introduction and basics | [Lecture 1 notes](files/ECC-lec-1.pdf), [Chapter 1 (GRS)](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)|
+| MODULE 01 | - | Foundations |  - |
+| Lecture 01<br>Wed · Sep 09 | Yael Kalai | Introduction and basics | [Lecture 1 notes](files/ECC-lec-1.pdf)<br> [Chapter 1 (GRS)](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)|
 | Lecture 02<br>Mon · Sep 14 | Rohan Goyal | Linear codes and q-ary entropy | Chapters 2 and 3 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | Lecture 03<br>Wed · Sep 16 | Rohan Goyal | GV and Singleton bounds; Reed-Solomon and MDS codes | Chapters 4 and 5 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | Lecture 04<br>Mon · Sep 21 | Rohan Goyal | List-decoding bounds: capacity, Johnson, and generalized Singleton | Chapters 6–8 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |

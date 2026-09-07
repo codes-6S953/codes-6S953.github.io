@@ -5,7 +5,7 @@ Add lecture notes, slides, readings, problem sets, and other downloadable files 
 Link to a file from `index.md` with a relative path:
 
 ```md
-[Lecture 1 notes](files/lecture-01.pdf)
+[Lecture 1 notes](files/ECC-lec-1.pdf)
 ```
 
 The build script copies this whole folder into the published site.
