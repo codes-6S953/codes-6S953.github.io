@@ -32,10 +32,10 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 07<br>Wed · Sep 30 | Yael Kalai | — | — |
 | Lecture 08<br>Mon · Oct 05 | Yael Kalai | — | — |
 | MODULE 03 |  | Code constructions |  |
-| Lecture 09<br>Wed · Oct 07 | Rohan Goyal | Polynomial codes | — |
+| Lecture 09<br>Wed · Oct 07 | Guest: Tim Hsieh | Concatenated codes and expanders | — |
 | No class<br>Mon · Oct 12 | — | — | Indigenous Peoples' Day · `Institute holiday` |
-| Lecture 10<br>Tue · Oct 13 | Guest | — | `Monday schedule of classes` |
-| Lecture 11<br>Wed · Oct 14 | Guest | — | — |
+| Lecture 10<br>Tue · Oct 13 | Rohan Goyal | Expander codes | `Monday schedule of classes` |
+| Lecture 11<br>Wed · Oct 14 | Rohan Goyal | Polynomial Codes | — |
 | MODULE 04 |  | Subspace designs and LCL properties |  |
 | Lecture 12<br>Mon · Oct 19 | — | — | — |
 | Lecture 13<br>Wed · Oct 21 | — | — | — |
