@@ -24,7 +24,7 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | MODULE 01 | - | Foundations |  - |
 | Lecture 01<br>Wed · Sep 09 | Yael Kalai | Introduction and basics | [Lecture 1 notes](files/ECC-lec-1.pdf)<br> [Chapter 1 (GRS)](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)|
 | Lecture 02<br>Mon · Sep 14 | Rohan Goyal | Linear codes, q-ary entropy, GV Bound, Singleton Bound | [Lecture 2 notes](files/ECC-lec-2.pdf) <br> Chapters 2, 3, and 4 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
-| Lecture 03<br>Wed · Sep 16 | Rohan Goyal | Dual Codes; Plotkin Bound; Reed-Solomon and MDS codes | Chapters 4 and 5 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
+| Lecture 03<br>Wed · Sep 16 | Rohan Goyal | Dual Codes; Hadamard code; Plotkin Bound; Reed-Solomon codes | [Lecture 3 notes](files/ECC-lec-3.pdf)<br> Chapters 4 and 5 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | Lecture 04<br>Mon · Sep 21 | Rohan Goyal | List-decoding bounds: capacity, Johnson, and generalized Singleton | Chapters 6–8 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | MODULE 02 |  | Interactive coding theory |  |
 | Lecture 05<br>Wed · Sep 23 | Yael Kalai | The interactive and feedback models | — |
