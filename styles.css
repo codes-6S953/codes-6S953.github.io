@@ -32,9 +32,10 @@ p { margin: 0 0 15px; }
 table { width: 100%; min-width: 780px; border-collapse: collapse; font-size: 14px; line-height: 1.4; }
 th, td { padding: 9px 10px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
 thead th { border-top: 2px solid var(--text); border-bottom: 2px solid var(--text); font-family: Arial, sans-serif; font-size: 13px; }
-thead th:first-child { width: 17%; }
-thead th:nth-child(2) { width: 16%; }
-thead th:nth-child(3) { width: 34%; }
+#schedule thead th:first-child { width: 17%; }
+#schedule thead th:nth-child(2) { width: 16%; }
+#schedule thead th:nth-child(3) { width: 34%; }
+#problem-sets table { min-width: 560px; }
 tbody th { font-weight: normal; }
 .lecture-no { display: block; font-weight: bold; }
 .avatar { display: none; }

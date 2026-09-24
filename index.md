@@ -27,7 +27,7 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 03<br>Wed · Sep 16 | Rohan Goyal | Dual Codes; Hadamard code; Plotkin Bound; Reed-Solomon codes | [Lecture 3 notes](files/ECC-lec-3.pdf)<br> Chapters 4 and 5 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | Lecture 04<br>Mon · Sep 21 | Rohan Goyal | Channel capacity, list decoding, and the Johnson, Elias–Bassalygo, and MRRW bounds | [Lecture 4 notes](files/ECC-lec-4.pdf)<br> Chapters 6–8 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | MODULE 02 |  | Interactive coding theory |  |
-| Lecture 05<br>Wed · Sep 23 | Yael Kalai | Interactive coding and tree codes | [Lecture 5 notes](files/ECC-lec-5.pdf) |
+| Lecture 05<br>Wed · Sep 23 | Yael Kalai | Interactive coding and tree codes | [Lecture 5 notes](files/ECC-lec-5.pdf)<br>[Problem set 1](files/pset1-6S953.pdf) |
 | Lecture 06<br>Mon · Sep 28 | Yael Kalai | — | — |
 | Lecture 07<br>Wed · Sep 30 | Yael Kalai | — | — |
 | Lecture 08<br>Mon · Oct 05 | Yael Kalai | — | — |
@@ -55,6 +55,12 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 23<br>Wed · Dec 02 | — | — | — |
 | Project presentations<br>Mon · Dec 07 | — | — | `Presentations` |
 | Project presentations<br>Wed · Dec 09 | — | — | `Presentations` · `Last course meeting` |
+
+# Problem sets
+
+| Problem set | Released | Due | Solution presentation scheduling |
+| --- | --- | --- | --- |
+| [Problem set 1](files/pset1-6S953.pdf) | September 23, 2026 | October 7, 6:00 PM | Scheduling link coming soon |
 
 # Overview
 
