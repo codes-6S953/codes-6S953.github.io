@@ -28,7 +28,7 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 04<br>Mon · Sep 21 | Rohan Goyal | Channel capacity, list decoding, and the Johnson, Elias–Bassalygo, and MRRW bounds | [Lecture 4 notes](files/ECC-lec-4.pdf)<br> Chapters 6–8 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | MODULE 02 |  | Interactive coding theory |  |
 | Lecture 05<br>Wed · Sep 23 | Yael Kalai | Interactive coding and tree codes | [Lecture 5 notes](files/ECC-lec-5.pdf)<br>[Problem set 1](files/pset1-6S953.pdf) |
-| Lecture 06<br>Mon · Sep 28 | Yael Kalai | — | — |
+| Lecture 06<br>Mon · Sep 28 | Yael Kalai | Interactive coding (continued) | [Lecture 6 notes](files/ECC-lec-6.pdf) |
 | Lecture 07<br>Wed · Sep 30 | Yael Kalai | — | — |
 | Lecture 08<br>Mon · Oct 05 | Yael Kalai | — | — |
 | MODULE 03 |  | Code constructions |  |
