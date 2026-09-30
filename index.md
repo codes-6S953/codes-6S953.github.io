@@ -29,7 +29,7 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | MODULE 02 |  | Interactive coding theory |  |
 | Lecture 05<br>Wed · Sep 23 | Yael Kalai | Interactive coding and tree codes | [Lecture 5 notes](files/ECC-lec-5.pdf)<br>[Problem set 1](files/pset1-6S953.pdf) |
 | Lecture 06<br>Mon · Sep 28 | Yael Kalai | Interactive coding (continued) | [Lecture 6 notes](files/ECC-lec-6.pdf) |
-| Lecture 07<br>Wed · Sep 30 | Yael Kalai | — | — |
+| Lecture 07<br>Wed · Sep 30 | Yael Kalai | Tree codes | [Lecture 7 notes](files/ECC-lec-7.pdf) |
 | Lecture 08<br>Mon · Oct 05 | Yael Kalai | — | — |
 | MODULE 03 |  | Code constructions |  |
 | Lecture 09<br>Wed · Oct 07 | Guest: Tim Hsieh | Concatenated codes and expanders | — |
@@ -140,11 +140,11 @@ The grade will be based on the following three components:
 
 The project is completed in groups of two or three and may take one of two forms: research or reading.
 
-Candidate projects for both forms will be added soon. You may also propose a topic that aligns with the course, subject to approval by the professor or TA. You may schedule a meeting with Rohan to discuss possible projects and ideas.
+**Project ideas:** [Download the project ideas (PDF)](files/project-ideas-6s953.pdf) for reading topics, suggested papers, and research directions. You may also propose a topic that aligns with the course, subject to approval by the professor or TA. You may schedule a meeting with Rohan to discuss possible projects and ideas.
 
-Project timeline:
+**Project timeline:**
 
-- **October 2 at 6:00 PM — Topic and group selection (5%).**
+- **October 9 at 6:00 PM — Topic and group selection (5%).**
 - **October 16 at 6:00 PM — One-page project proposal and plan (10%).**
 - **November 13 at 6:00 PM — One-page progress report (10%).**
 - **December 7 and 9 — Project presentations (15%).**
