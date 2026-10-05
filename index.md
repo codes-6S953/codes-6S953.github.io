@@ -102,6 +102,12 @@ Graduate · 12 units
 
 AAGS in Theoretical Computer Science
 
+## Piazza
+
+[Join the course Piazza](https://piazza.com/mit/fall2026/6s953)
+
+If you are unable to join because you do not have an MIT email address, please [email the course staff](mailto:tauman@mit.edu,rohan_g@mit.edu) with the email address you would like to use, and we will add you.
+
 # References
 
 ## GRS
