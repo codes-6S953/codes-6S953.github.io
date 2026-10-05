@@ -30,7 +30,7 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 05<br>Wed · Sep 23 | Yael Kalai | Interactive coding and tree codes | [Lecture 5 notes](files/ECC-lec-5.pdf)<br>[Problem set 1](files/pset1-6S953.pdf) |
 | Lecture 06<br>Mon · Sep 28 | Yael Kalai | Interactive coding (continued) | [Lecture 6 notes](files/ECC-lec-6.pdf) |
 | Lecture 07<br>Wed · Sep 30 | Yael Kalai | Tree codes | [Lecture 7 notes](files/ECC-lec-7.pdf) |
-| Lecture 08<br>Mon · Oct 05 | Yael Kalai | — | — |
+| Lecture 08<br>Mon · Oct 05 | Yael Kalai | Computationally efficient interactive coding | [Lecture 8 notes](files/ECC-lec-8.pdf) |
 | MODULE 03 |  | Code constructions |  |
 | Lecture 09<br>Wed · Oct 07 | Guest: Tim Hsieh | Concatenated codes and expanders | — |
 | No class<br>Mon · Oct 12 | — | — | Indigenous Peoples' Day · `Institute holiday` |
@@ -58,9 +58,11 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 
 # Problem sets
 
+Problem set writeups do not need to be submitted. If none of the available presentation slots work for you, please [email Rohan](mailto:rohan_g@mit.edu) to arrange another time.
+
 | Problem set | Released | Due | Solution presentation scheduling |
 | --- | --- | --- | --- |
-| [Problem set 1](files/pset1-6S953.pdf) | September 23, 2026 | October 7, 6:00 PM | Scheduling link coming soon |
+| [Problem set 1](files/pset1-6S953.pdf) | September 23, 2026 | October 7, 6:00 PM | [Schedule a presentation](https://calendar.app.google/JqpxJ5gup3zpYtvm7) |
 
 # Overview
 
