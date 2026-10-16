@@ -32,19 +32,19 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 07<br>Wed · Sep 30 | Yael Kalai | Tree codes | [Lecture 7 notes](files/ECC-lec-7.pdf) |
 | Lecture 08<br>Mon · Oct 05 | Yael Kalai | Computationally efficient interactive coding | [Lecture 8 notes](files/ECC-lec-8.pdf) |
 | MODULE 03 |  | Code constructions |  |
-| Lecture 09<br>Wed · Oct 07 | Guest: Tim Hsieh | Concatenated codes and expanders | — |
+| Lecture 09<br>Wed · Oct 07 | Guest: Tim Hsieh | Concatenated codes and expanders | Chapter 10 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | No class<br>Mon · Oct 12 | — | — | Indigenous Peoples' Day · `Institute holiday` |
-| Lecture 10<br>Tue · Oct 13 | Rohan Goyal | Expander codes | `Monday schedule of classes` |
-| Lecture 11<br>Wed · Oct 14 | Rohan Goyal | Polynomial Codes | — |
+| Lecture 10<br>Tue · Oct 13 | Rohan Goyal | Expander codes | [Lecture 10 notes](files/ECC-lec-10.pdf)<br> Chapter 11 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 17 [Sud08](https://courses.csail.mit.edu/6.440/spring08/notes/ST08-Lecture17.pdf)<br>`Monday schedule of classes` |
+| Lecture 11<br>Wed · Oct 14 | Rohan Goyal | Polynomial Codes | [Lecture 11 notes](files/ECC-lec-11.pdf)<br> Chapter 9 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 8 [Har22](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/notes/08-20220921-rm.pdf#page=3) (pp. 3–8)<br>[Problem set 2](files/pset2-6S953.pdf) |
 | MODULE 04 |  | Subspace designs and LCL properties |  |
 | Lecture 12<br>Mon · Oct 19 | — | — | — |
 | Lecture 13<br>Wed · Oct 21 | — | — | — |
 | Lecture 14<br>Mon · Oct 26 | — | — | — |
 | Lecture 15<br>Wed · Oct 28 | — | — | — |
-| Midterm<br>Mon · Nov 02 | — | — | `Midterm` |
 | MODULE 05 |  | Algorithms |  |
-| Lecture 16<br>Wed · Nov 04 | — | — | — |
-| Lecture 17<br>Mon · Nov 09 | — | — | — |
+| Lecture 16<br>Mon · Nov 02 | — | — | — |
+| Lecture 17<br>Wed · Nov 04 | — | — | — |
+| Midterm<br>Mon · Nov 09 | — | — | `Midterm` |
 | No class<br>Wed · Nov 11 | — | — | Veterans Day · `Institute holiday` |
 | Lecture 18<br>Mon · Nov 16 | — | — | — |
 | Lecture 19<br>Wed · Nov 18 | — | — | — |
@@ -63,6 +63,7 @@ Problem set writeups do not need to be submitted. If none of the available prese
 | Problem set | Released | Due | Solution presentation scheduling |
 | --- | --- | --- | --- |
 | [Problem set 1](files/pset1-6S953.pdf) | September 23, 2026 | October 7, 6:00 PM | [Schedule a presentation](https://calendar.app.google/JqpxJ5gup3zpYtvm7) |
+| [Problem set 2](files/pset2-6S953.pdf) | October 15, 2026 | October 28, 6:00 PM | [Schedule a presentation](https://calendar.app.google/8i5GBgzdWZWjWfZn7) |
 
 # Overview
 
@@ -74,7 +75,7 @@ This topics course in error-correcting codes begins with the fundamentals, progr
 
 # Syllabus
 
-The course is organized into the following modules. Lecture-level topics, notes, and references will be added to the schedule as the course develops. The midterm is scheduled for November 2, and the final two class meetings are reserved for project presentations.
+The course is organized into the following modules. Lecture-level topics, notes, and references will be added to the schedule as the course develops. The midterm is scheduled for November 9, and the final two class meetings are reserved for project presentations.
 
 ## 1. Foundations: Possibilities and limitations; Chapters 1–8 of [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 
@@ -114,25 +115,33 @@ If you are unable to join because you do not have an MIT email address, please [
 
 Venkatesan Guruswami, Atri Rudra, and Madhu Sudan, [*Essential Coding Theory*](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/), draft book.
 
-## Sud23
+## Gur22
 
-Madhu Sudan, [*Essential Coding Theory*](https://docs.google.com/document/d/1UnpFN34N2su7neKZJv8geeLUy_tzB5J4pBlAVJvBYGQ/edit?tab=t.0#heading=h.6c0r0a61enx8), course materials.
+Venkatesan Guruswami, [*CS 294-226: Advances in Error-Correcting Codes*](https://people.eecs.berkeley.edu/~venkatg/teaching/ECC-fall22/), UC Berkeley, Fall 2022.
+
+## Har22
+
+Prahladh Harsha, [*CSS.318.1: Coding Theory*](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/), TIFR, Monsoon 2022.
 
 ## Har24
 
 Prahladh Harsha, [*CSS.318.1: Coding Theory*](https://tifr-css-318-1-coding-theory-2024.bitbucket.io/), TIFR, 2024.
 
-## Woo25
-
-Mary Wootters, [*CS250/EE387: Error-Correcting Codes*](https://web.stanford.edu/class/cs250/), Stanford University, Winter 2025. [Lecture videos](https://www.youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr).
-
-## Gur22
-
-Venkatesan Guruswami, [*CS 294-226: Advances in Error-Correcting Codes*](https://people.eecs.berkeley.edu/~venkatg/teaching/ECC-fall22/), UC Berkeley, Fall 2022.
-
 ## Kop22
 
 Swastik Kopparty, [*Topics in Error Correcting Codes*](https://www.math.utoronto.ca/swastik/courses/codes-F22/), University of Toronto, Fall 2022.
+
+## Sud08
+
+Madhu Sudan, [*6.440: Essential Coding Theory*](https://courses.csail.mit.edu/6.440/spring08/index.html), MIT, Spring 2008.
+
+## Sud23
+
+Madhu Sudan, [*Essential Coding Theory*](https://docs.google.com/document/d/1UnpFN34N2su7neKZJv8geeLUy_tzB5J4pBlAVJvBYGQ/edit?tab=t.0#heading=h.6c0r0a61enx8), course materials.
+
+## Woo25
+
+Mary Wootters, [*CS250/EE387: Error-Correcting Codes*](https://web.stanford.edu/class/cs250/), Stanford University, Winter 2025. [Lecture videos](https://www.youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr).
 
 # Policies
 
