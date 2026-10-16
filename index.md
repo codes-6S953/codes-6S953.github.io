@@ -37,10 +37,10 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 10<br>Tue · Oct 13 | Rohan Goyal | Expander codes | [Lecture 10 notes](files/ECC-lec-10.pdf)<br> Chapter 11 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 17 [Sud08](https://courses.csail.mit.edu/6.440/spring08/notes/ST08-Lecture17.pdf)<br>`Monday schedule of classes` |
 | Lecture 11<br>Wed · Oct 14 | Rohan Goyal | Polynomial Codes | [Lecture 11 notes](files/ECC-lec-11.pdf)<br> Chapter 9 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 8 [Har22](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/notes/08-20220921-rm.pdf#page=3) (pp. 3–8)<br>[Problem set 2](files/pset2-6S953.pdf) |
 | MODULE 04 |  | Subspace designs and LCL properties |  |
-| Lecture 12<br>Mon · Oct 19 | — | — | — |
-| Lecture 13<br>Wed · Oct 21 | — | — | — |
-| Lecture 14<br>Mon · Oct 26 | — | — | — |
-| Lecture 15<br>Wed · Oct 28 | — | — | — |
+| Lecture 12<br>Mon · Oct 19 | Rohan Goyal | — | — |
+| Lecture 13<br>Wed · Oct 21 | Rohan Goyal | — | — |
+| Lecture 14<br>Mon · Oct 26 | Rohan Goyal | — | — |
+| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | — | — |
 | MODULE 05 |  | Algorithms |  |
 | Lecture 16<br>Mon · Nov 02 | — | — | — |
 | Lecture 17<br>Wed · Nov 04 | — | — | — |
