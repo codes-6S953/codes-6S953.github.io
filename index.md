@@ -32,15 +32,15 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 07<br>Wed · Sep 30 | Yael Kalai | Tree codes | [Lecture 7 notes](files/ECC-lec-7.pdf) |
 | Lecture 08<br>Mon · Oct 05 | Yael Kalai | Computationally efficient interactive coding | [Lecture 8 notes](files/ECC-lec-8.pdf) |
 | MODULE 03 |  | Code constructions |  |
-| Lecture 09<br>Wed · Oct 07 | Guest: Tim Hsieh | Concatenated codes and expanders | Chapter 10 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
+| Lecture 09<br>Wed · Oct 07 | Guest: Tim Hsieh | Concatenated codes and expanders | [Lecture 9 notes](files/ECC-lec-9.pdf)<br> Chapter 10 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | No class<br>Mon · Oct 12 | — | — | Indigenous Peoples' Day · `Institute holiday` |
 | Lecture 10<br>Tue · Oct 13 | Rohan Goyal | Expander codes | [Lecture 10 notes](files/ECC-lec-10.pdf)<br> Chapter 11 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 17 [Sud08](https://courses.csail.mit.edu/6.440/spring08/notes/ST08-Lecture17.pdf)<br>`Monday schedule of classes` |
 | Lecture 11<br>Wed · Oct 14 | Rohan Goyal | Polynomial Codes | [Lecture 11 notes](files/ECC-lec-11.pdf)<br> Chapter 9 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 8 [Har22](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/notes/08-20220921-rm.pdf#page=3) (pp. 3–8)<br>[Problem set 2](files/pset2-6S953.pdf) |
 | MODULE 04 |  | Subspace designs and LCL properties |  |
-| Lecture 12<br>Mon · Oct 19 | Rohan Goyal | — | — |
-| Lecture 13<br>Wed · Oct 21 | Rohan Goyal | — | — |
-| Lecture 14<br>Mon · Oct 26 | Rohan Goyal | — | — |
-| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | — | — |
+| Lecture 12<br>Mon · Oct 19 | Rohan Goyal | Local coordinate-wise linear (LCL) properties and subspace-designs  | [Lecture 12 notes](files/ECC-lec-12.pdf) |
+| Lecture 13<br>Wed · Oct 21 | Rohan Goyal | LCL framework and subspace-designs continued | — |
+| Lecture 14<br>Mon · Oct 26 | Rohan Goyal | Optimal list-decoding of subspace-design codes | — |
+| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | Bipartite Perfect Matching is in NC | — |
 | MODULE 05 |  | Algorithms |  |
 | Lecture 16<br>Mon · Nov 02 | — | — | — |
 | Lecture 17<br>Wed · Nov 04 | — | — | — |
