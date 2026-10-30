@@ -32,27 +32,27 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 07<br>Wed · Sep 30 | Yael Kalai | Tree codes | [Lecture 7 notes](files/ECC-lec-7.pdf) |
 | Lecture 08<br>Mon · Oct 05 | Yael Kalai | Computationally efficient interactive coding | [Lecture 8 notes](files/ECC-lec-8.pdf) |
 | MODULE 03 |  | Code constructions |  |
-| Lecture 09<br>Wed · Oct 07 | Guest: Tim Hsieh | Concatenated codes and expanders | [Lecture 9 notes](files/ECC-lec-9.pdf)<br> Chapter 10 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
+| Lecture 09<br>Wed · Oct 07 | Guest: [Tim Hsieh](https://jthsieh.github.io/) | Concatenated codes and expanders | [Lecture 9 notes](files/ECC-lec-9.pdf)<br> Chapter 10 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) |
 | No class<br>Mon · Oct 12 | — | — | Indigenous Peoples' Day · `Institute holiday` |
 | Lecture 10<br>Tue · Oct 13 | Rohan Goyal | Expander codes | [Lecture 10 notes](files/ECC-lec-10.pdf)<br> Chapter 11 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 17 [Sud08](https://courses.csail.mit.edu/6.440/spring08/notes/ST08-Lecture17.pdf)<br>`Monday schedule of classes` |
 | Lecture 11<br>Wed · Oct 14 | Rohan Goyal | Polynomial Codes | [Lecture 11 notes](files/ECC-lec-11.pdf)<br> Chapter 9 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 8 [Har22](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/notes/08-20220921-rm.pdf#page=3) (pp. 3–8)<br>[Problem set 2](files/pset2-6S953.pdf) |
 | MODULE 04 |  | Subspace designs and LCL properties |  |
 | Lecture 12<br>Mon · Oct 19 | Rohan Goyal | Local coordinate-wise linear (LCL) properties and subspace-designs  | [Lecture 12 notes](files/ECC-lec-12.pdf) |
 | Lecture 13<br>Wed · Oct 21 | Rohan Goyal | LCL framework and subspace-designs continued | [Lecture 13 notes](files/ECC-lec-13.pdf) |
-| Lecture 14<br>Mon · Oct 26 | Rohan Goyal | Optimal list-decoding of subspace-design codes | — |
-| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | Bipartite Perfect Matching is in NC | [Lecture 15 notes](files/ECC-lec-15.pdf) |
+| Lecture 14<br>Mon · Oct 26 | Rohan Goyal | Optimal list-decoding of subspace-design codes | [Lecture 14 notes](files/ECC-lec-14.pdf) |
+| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | Bipartite Perfect Matching is in NC | [Lecture 15 notes](files/ECC-lec-15.pdf)<br>Problem set 3 |
 | MODULE 05 |  | Algorithms |  |
-| Lecture 16<br>Mon · Nov 02 | — | — | — |
-| Lecture 17<br>Wed · Nov 04 | — | — | — |
+| Lecture 16<br>Mon · Nov 02 | Rohan Goyal | Algorithmic decoding of Reed-Solomon codes | — |
+| Lecture 17<br>Wed · Nov 04 | Rohan Goyal | — | — |
 | Midterm<br>Mon · Nov 09 | — | — | `Midterm` |
 | No class<br>Wed · Nov 11 | — | — | Veterans Day · `Institute holiday` |
-| Lecture 18<br>Mon · Nov 16 | — | — | — |
-| Lecture 19<br>Wed · Nov 18 | — | — | — |
+| Lecture 18<br>Mon · Nov 16 | Rohan Goyal | — | — |
+| Lecture 19<br>Wed · Nov 18 | Rohan Goyal | — | — |
 | MODULE 06 |  | Applications |  |
-| Lecture 20<br>Mon · Nov 23 | — | — | — |
-| Lecture 21<br>Wed · Nov 25 | — | — | — |
-| Lecture 22<br>Mon · Nov 30 | — | — | — |
-| Lecture 23<br>Wed · Dec 02 | — | — | — |
+| Lecture 20<br>Mon · Nov 23 | Guest: [Surendra Ghentiyala](https://surendragh.github.io/) | - | — |
+| Lecture 21<br>Wed · Nov 25 | Guest: [Sam Gunn](https://samuel-gunn.github.io/) | Pseudorandom codes | — |
+| Lecture 22<br>Mon · Nov 30 | Guest: [Prashanth Amireddy](https://sites.google.com/view/prashanth-amireddy) | The PCP theorem from code concatenation | — |
+| Lecture 23<br>Wed · Dec 02 | TBD | TBD | — |
 | Project presentations<br>Mon · Dec 07 | — | — | `Presentations` |
 | Project presentations<br>Wed · Dec 09 | — | — | `Presentations` · `Last course meeting` |
 
@@ -64,6 +64,7 @@ Problem set writeups do not need to be submitted. If none of the available prese
 | --- | --- | --- | --- |
 | [Problem set 1](files/pset1-6S953.pdf) | September 23, 2026 | October 7, 6:00 PM | [Schedule a presentation](https://calendar.app.google/JqpxJ5gup3zpYtvm7) |
 | [Problem set 2](files/pset2-6S953.pdf) | October 15, 2026 | October 28, 6:00 PM | [Schedule a presentation](https://calendar.app.google/8i5GBgzdWZWjWfZn7) |
+| Problem set 3 | October 30, 2026 | November 18, 6:00 PM | [Schedule a presentation](https://calendar.app.google/wp6M26C4sskmzL3g6) |
 
 # Overview
 
