@@ -38,9 +38,9 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 11<br>Wed · Oct 14 | Rohan Goyal | Polynomial Codes | [Lecture 11 notes](files/ECC-lec-11.pdf)<br> Chapter 9 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 8 [Har22](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/notes/08-20220921-rm.pdf#page=3) (pp. 3–8)<br>[Problem set 2](files/pset2-6S953.pdf) |
 | MODULE 04 |  | Subspace designs and LCL properties |  |
 | Lecture 12<br>Mon · Oct 19 | Rohan Goyal | Local coordinate-wise linear (LCL) properties and subspace-designs  | [Lecture 12 notes](files/ECC-lec-12.pdf) |
-| Lecture 13<br>Wed · Oct 21 | Rohan Goyal | LCL framework and subspace-designs continued | — |
+| Lecture 13<br>Wed · Oct 21 | Rohan Goyal | LCL framework and subspace-designs continued | [Lecture 13 notes](files/ECC-lec-13.pdf) |
 | Lecture 14<br>Mon · Oct 26 | Rohan Goyal | Optimal list-decoding of subspace-design codes | — |
-| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | Bipartite Perfect Matching is in NC | — |
+| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | Bipartite Perfect Matching is in NC | [Lecture 15 notes](files/ECC-lec-15.pdf) |
 | MODULE 05 |  | Algorithms |  |
 | Lecture 16<br>Mon · Nov 02 | — | — | — |
 | Lecture 17<br>Wed · Nov 04 | — | — | — |
