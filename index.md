@@ -40,7 +40,7 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 12<br>Mon · Oct 19 | Rohan Goyal | Local coordinate-wise linear (LCL) properties and subspace-designs  | [Lecture 12 notes](files/ECC-lec-12.pdf) |
 | Lecture 13<br>Wed · Oct 21 | Rohan Goyal | LCL framework and subspace-designs continued | [Lecture 13 notes](files/ECC-lec-13.pdf) |
 | Lecture 14<br>Mon · Oct 26 | Rohan Goyal | Optimal list-decoding of subspace-design codes | [Lecture 14 notes](files/ECC-lec-14.pdf) |
-| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | Bipartite Perfect Matching is in NC | [Lecture 15 notes](files/ECC-lec-15.pdf)<br>Problem set 3 |
+| Lecture 15<br>Wed · Oct 28 | Rohan Goyal | Bipartite Perfect Matching is in NC | [Lecture 15 notes](files/ECC-lec-15.pdf)<br>[Problem set 3](files/pset3-6S953.pdf) |
 | MODULE 05 |  | Algorithms |  |
 | Lecture 16<br>Mon · Nov 02 | Rohan Goyal | Algorithmic decoding of Reed-Solomon codes | — |
 | Lecture 17<br>Wed · Nov 04 | Rohan Goyal | — | — |
@@ -64,7 +64,7 @@ Problem set writeups do not need to be submitted. If none of the available prese
 | --- | --- | --- | --- |
 | [Problem set 1](files/pset1-6S953.pdf) | September 23, 2026 | October 7, 6:00 PM | [Schedule a presentation](https://calendar.app.google/JqpxJ5gup3zpYtvm7) |
 | [Problem set 2](files/pset2-6S953.pdf) | October 15, 2026 | October 28, 6:00 PM | [Schedule a presentation](https://calendar.app.google/8i5GBgzdWZWjWfZn7) |
-| Problem set 3 | October 30, 2026 | November 18, 6:00 PM | [Schedule a presentation](https://calendar.app.google/wp6M26C4sskmzL3g6) |
+| [Problem set 3](files/pset3-6S953.pdf) | October 30, 2026 | November 18, 6:00 PM | [Schedule a presentation](https://calendar.app.google/wp6M26C4sskmzL3g6) |
 
 # Overview
 
