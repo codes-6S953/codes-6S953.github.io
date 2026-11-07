@@ -37,22 +37,23 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Lecture 10<br>Tue · Oct 13 | Rohan Goyal | Expander codes | [Lecture 10 notes](files/ECC-lec-10.pdf)<br> Chapter 11 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 17 [Sud08](https://courses.csail.mit.edu/6.440/spring08/notes/ST08-Lecture17.pdf)<br>`Monday schedule of classes` |
 | Lecture 11<br>Wed · Oct 14 | Rohan Goyal | Polynomial Codes | [Lecture 11 notes](files/ECC-lec-11.pdf)<br> Chapter 9 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)<br> Lecture 8 [Har22](https://www.tcs.tifr.res.in/~prahladh/teaching/2022-23/coding/notes/08-20220921-rm.pdf#page=3) (pp. 3–8)<br>[Problem set 2](files/pset2-6S953.pdf) |
 | MODULE 04 |  | Subspace designs and LCL properties |  |
-| Lecture 12<br>Mon · Oct 19 | Rohan Goyal | Local coordinate-wise linear (LCL) properties and subspace-designs  | [Lecture 12 notes](files/ECC-lec-12.pdf) |
+| Lecture 12<br>Mon · Oct 19 | Rohan Goyal | Local coordinate-wise linear (LCL) properties and subspace-designs  | [Lecture 12 notes](files/ECC-lec-12.pdf)<br>[Kaleidoscope workshop](https://brunoloff.github.io/kaleidoscope26/)<br>Mary Wootters, “Random ensembles and subspace designs”: [Part 1](https://youtu.be/rrWz-ePDaIA), [Part 2](https://youtu.be/3jdcx0I15BE), [Part 3](https://youtu.be/FBORpyu52u4) |
 | Lecture 13<br>Wed · Oct 21 | Rohan Goyal | LCL framework and subspace-designs continued | [Lecture 13 notes](files/ECC-lec-13.pdf) |
 | Lecture 14<br>Mon · Oct 26 | Rohan Goyal | Optimal list-decoding of subspace-design codes | [Lecture 14 notes](files/ECC-lec-14.pdf) |
 | Lecture 15<br>Wed · Oct 28 | Rohan Goyal | Bipartite Perfect Matching is in NC | [Lecture 15 notes](files/ECC-lec-15.pdf)<br>[Problem set 3](files/pset3-6S953.pdf) |
 | MODULE 05 |  | Algorithms |  |
-| Lecture 16<br>Mon · Nov 02 | Rohan Goyal | Algorithmic decoding of Reed-Solomon codes | — |
-| Lecture 17<br>Wed · Nov 04 | Rohan Goyal | — | — |
+| Lecture 16<br>Mon · Nov 02 | Rohan Goyal | Berlekamp-Welch, Sudan's algorithm, Guruswami-Sudan | Chapter 12 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) (Sections 12.1–12.2) |
+| Lecture 17<br>Wed · Nov 04 | Rohan Goyal | Guruswami-Sudan (continued), Guruswami-Wang decoding of folded Reed-Solomon codes | Chapters 12 and 17 [GRS](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) (Sections 12.2 and 17.1–17.3) |
 | Midterm<br>Mon · Nov 09 | — | — | `Midterm` |
 | No class<br>Wed · Nov 11 | — | — | Veterans Day · `Institute holiday` |
-| Lecture 18<br>Mon · Nov 16 | Rohan Goyal | — | — |
-| Lecture 19<br>Wed · Nov 18 | Rohan Goyal | — | — |
-| MODULE 06 |  | Applications |  |
+| MODULE 06 |  | Coding theory and interactive proofs |  |
+| Lecture 18<br>Mon · Nov 16 | Yael Kalai | — | — |
+| Lecture 19<br>Wed · Nov 18 | Yael Kalai | — | — |
+| MODULE 07 |  | Applications |  |
 | Lecture 20<br>Mon · Nov 23 | Guest: [Surendra Ghentiyala](https://surendragh.github.io/) | - | — |
 | Lecture 21<br>Wed · Nov 25 | Guest: [Sam Gunn](https://samuel-gunn.github.io/) | Pseudorandom codes | — |
 | Lecture 22<br>Mon · Nov 30 | Guest: [Prashanth Amireddy](https://sites.google.com/view/prashanth-amireddy) | The PCP theorem from code concatenation | — |
-| Lecture 23<br>Wed · Dec 02 | TBD | TBD | — |
+| Lecture 23<br>Wed · Dec 02 | Guest: [Jad Silbak](https://sites.google.com/view/jadsilbak/home) | TBD | — |
 | Project presentations<br>Mon · Dec 07 | — | — | `Presentations` |
 | Project presentations<br>Wed · Dec 09 | — | — | `Presentations` · `Last course meeting` |
 
