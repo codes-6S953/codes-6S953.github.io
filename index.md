@@ -66,6 +66,7 @@ Problem set writeups do not need to be submitted. If none of the available prese
 | [Problem set 1](files/pset1-6S953.pdf) | September 23, 2026 | October 7, 6:00 PM | [Schedule a presentation](https://calendar.app.google/JqpxJ5gup3zpYtvm7) |
 | [Problem set 2](files/pset2-6S953.pdf) | October 15, 2026 | October 28, 6:00 PM | [Schedule a presentation](https://calendar.app.google/8i5GBgzdWZWjWfZn7) |
 | [Problem set 3](files/pset3-6S953.pdf) | October 30, 2026 | November 18, 6:00 PM | [Schedule a presentation](https://calendar.app.google/wp6M26C4sskmzL3g6) |
+| [Practice midterm](files/practice-midterm.pdf) | November 7, 2026 | NA | NA |
 
 # Overview
 
