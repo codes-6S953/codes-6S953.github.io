@@ -47,7 +47,7 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | Midterm<br>Mon · Nov 09 | — | — | `Midterm` |
 | No class<br>Wed · Nov 11 | — | — | Veterans Day · `Institute holiday` |
 | MODULE 06 |  | Coding theory and interactive proofs |  |
-| Lecture 18<br>Mon · Nov 16 | Yael Kalai | — | — |
+| Lecture 18<br>Mon · Nov 16 | Yael Kalai | Sumcheck protocol | [Lecture 18 notes](files/ECC-lec-18.pdf) |
 | Lecture 19<br>Wed · Nov 18 | Yael Kalai | — | — |
 | MODULE 07 |  | Applications |  |
 | Lecture 20<br>Mon · Nov 23 | Guest: [Surendra Ghentiyala](https://surendragh.github.io/) | - | — |
