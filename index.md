@@ -48,7 +48,7 @@ Use a row beginning with `MODULE` to add a section divider. Separate multiple li
 | No class<br>Wed · Nov 11 | — | — | Veterans Day · `Institute holiday` |
 | MODULE 06 |  | Coding theory and interactive proofs |  |
 | Lecture 18<br>Mon · Nov 16 | Yael Kalai | Sumcheck protocol | [Lecture 18 notes](files/ECC-lec-18.pdf) |
-| Lecture 19<br>Wed · Nov 18 | Yael Kalai | The GKR protocol | [Lecture 19 notes](files/ECC-lec-19.pdf) |
+| Lecture 19<br>Wed · Nov 18 | Yael Kalai | The GKR protocol | [Lecture 19 notes](files/ECC-lec-19.pdf)<br>[Problem set 4](files/pset4-6S953.pdf) |
 | MODULE 07 |  | Applications |  |
 | Lecture 20<br>Mon · Nov 23 | Guest: [Surendra Ghentiyala](https://surendragh.github.io/) | - | — |
 | Lecture 21<br>Wed · Nov 25 | Guest: [Sam Gunn](https://samuel-gunn.github.io/) | Pseudorandom codes | — |
@@ -66,6 +66,7 @@ Problem set writeups do not need to be submitted. If none of the available prese
 | [Problem set 1](files/pset1-6S953.pdf) | September 23, 2026 | October 7, 6:00 PM | [Schedule a presentation](https://calendar.app.google/JqpxJ5gup3zpYtvm7) |
 | [Problem set 2](files/pset2-6S953.pdf) | October 15, 2026 | October 28, 6:00 PM | [Schedule a presentation](https://calendar.app.google/8i5GBgzdWZWjWfZn7) |
 | [Problem set 3](files/pset3-6S953.pdf) | October 30, 2026 | November 18, 6:00 PM | [Schedule a presentation](https://calendar.app.google/wp6M26C4sskmzL3g6) |
+| [Problem set 4](files/pset4-6S953.pdf) | November 19, 2026 | December 2 | [Schedule a presentation](https://calendar.app.google/NcCQHYNaTCuS6xB8A) |
 | [Practice midterm](files/practice-midterm.pdf) | November 7, 2026 | NA | NA |
 
 # Overview
